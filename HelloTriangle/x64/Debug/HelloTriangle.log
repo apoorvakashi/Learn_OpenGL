@@ -1,3 +1,2 @@
-﻿  main.cpp
-D:\OpenGL\HelloTriangle\main.cpp(167,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+﻿  shader.cpp
   HelloTriangle.vcxproj -> D:\OpenGL\HelloTriangle\x64\Debug\HelloTriangle.exe
